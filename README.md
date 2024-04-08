@@ -3,8 +3,8 @@ Hi 👋 My name is Paul Baranowski
 
 Entrepreneur and tech enthusiast
 --------------------------------
+I am a startup founder with 10+ years experience in European and Emerging Market Agriculture, initially supporting EU focused ag-tech spinouts from Imperial College London and later at my own startup working in the emerging market space. Building Kernel - an agro-intelligence platform that enables >2000 organisations to deliver services to 630,000+ farmers, with 2.5+ million interactions to date. Developed the NEXO, a B2B low cost IoT weather station that collected over 150 million data points from smallholder farms located across Africa, Centam and SE Asia. Sold to big enterprises, such as Unilever, and was winner of The Manufacturer Top 100 award in 2019 and national runner up to the James Dyson award.
 
-ada
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [paul@fractional-founder.com](mailto:paul@fractional-founder.com)
